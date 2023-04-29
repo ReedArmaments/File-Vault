@@ -1,0 +1,45 @@
+Screws
+
+(2) M3x5mm Socket Head Screws 
+(1) M3x10 Grub Screw
+(1) M3x16mm Socket Head Screw 
+(4) M4x10mm Socket Head Screws
+(1) M4x15mm Socket head screw 
+(5) M4x16mm Socket Head Screws 
+(1) M4x25mm Socket Head Screws
+(1) M4 x 20mm Socket head screws 
+(2) M4x35mm Socket Head Screws
+(3) M4x40mm Socket Head Screws
+(1) 1/4-28 x 7/8" AR-15 Grip screw
+(2) 1" 1/4"-20 Bolt
+(1) 2-3/4" 1/4"-20 Bolt 
+
+Pins
+(2) 4mm x 30mm pin 
+(1) 4mm x 40mm pin 
+(3) 4mm x 36mm pin 
+(1) 4mm x 16-30mm pin 
+(1) 4mm x 16mm pin
+
+Springs
+(1)  Compression Spring, 0.75" x 0.188" x 0.13" 
+(1) 0.5" x 0.148" x 0.106" 
+(1) .370" OD x .312" ID x .022" WG x 12" Compression spring
+(2) 3mm x 10mm pin
+(2) Pen spring
+
+Nuts
+(3) 1/4"-20 Nut
+(12) M4 Nut - upper
+
+Firearm Parts
+(1) AR-15 Hammer, Pin & Trigger Spring
+	-only the trigger spring and pin are needed if you are using the printed front trigger
+(1) AR-15 Trigger, Pin, Disconnector, & Disconnector Spring
+(1) AR-15 Trigger, Pin, & Spring
+(1) AR-15 Safety, Detent, & Detent Spring
+
+
+Other:
+(2) 1/4" Washer
+(2) 1/4" Split washer
